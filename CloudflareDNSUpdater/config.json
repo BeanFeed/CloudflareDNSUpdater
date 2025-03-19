@@ -1,8 +1,12 @@
 {
   "Cloudflare": {
-    "ZoneId": "",
     "AuthEmail": "",
     "AuthKey": "",
-    "Records": []
+    "Zones": [
+      {
+        "ZoneId": "",
+        "RecordName": ""
+      }
+    ]
   }
 }
